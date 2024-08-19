@@ -23,14 +23,14 @@ export default function About(props){
             <p>I am in my fourth semester in Computer Programming and 
                 Analysis program at Seneca Polytechnic. I have had the passion
                 and interest in computer programming for a long time, and learning
-                various programming languages has been tough, but very interesting!
+                various programming languages shows how unique each one is!
             </p>
             <br/>
             <p>
                 To build my career and experiences, I did my co-op placement in highschool
                 at a company called Radeon Technologies Ltd. This was a virtual placement as 
                 it was also my first time working for a company and it was a great experience.
-                To build my soft skills as well, I worked at Marshalls for two years and built
+                To build my soft skills as well, I have been working at Marshalls for two years and built
                 many skills such as team work and collaboration, communication and independancy.                
     
                 Outside of school, I have many other hobbies I like to do in my free 
