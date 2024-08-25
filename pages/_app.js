@@ -2,7 +2,6 @@ import "@/styles/globals.css";
 import 'bootstrap/dist/css/bootstrap.min.css' 
 import Layout from "@/src/components/Layout";
 import { SWRConfig } from 'swr';
-// import PageHeader from "@/src/components/PageHeader";
 
 const fetcher = async (...args) => {
   const response = await fetch(...args);

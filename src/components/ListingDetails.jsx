@@ -16,7 +16,6 @@ export default function ListingDetails({listing}){
                     }}
                 className="img-fluid w-100"
                 src = {listing.images.picture_url}
-                //src="https://a0.muscache.com/im/pictures/2e04c904-2f0d-4011-990d-7a02afea4f98.jpg?aki_policy=large"
                 alt="Listing Image"
                 />
                 <br />
@@ -39,6 +38,5 @@ export default function ListingDetails({listing}){
 
 
 
-// listing.review_scores.review_scores_rating
 
 

@@ -10,10 +10,6 @@
 *
 ********************************************************************************/ 
 
-// import Head from "next/head";
-// import Image from "next/image";
-// import styles from "@/styles/Home.module.css";
-// import useSWR from "swr";
 import { useState, useEffect } from "react";
 import { Pagination, Accordion } from "react-bootstrap";
 import ListingDetails from "@/src/components/ListingDetails";
@@ -40,7 +36,6 @@ export default function Home() {
     fetch(`https://web422-assignment1-htoc.onrender.com/api/listings?page=${page}&perPage=10`).
     then(res=>res.json())
     .then(data=>{
-      //console.log(data)
       setPageData(data);
     })
   },[])
