@@ -4,7 +4,7 @@
 
 
 
-
+- fix about.jsx
 - write basic greeting
 
 - write summary of application
