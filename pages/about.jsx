@@ -30,7 +30,7 @@ export default function About(props){
                 To build my career and experiences, I did my co-op placement in highschool
                 at a company called Radeon Technologies Ltd. This was a virtual placement as 
                 it was also my first time working for a company and it was a great experience.
-                To build my soft skills as well, I worked at Marshalls for two years and built
+                To build my soft skills, I work at Marshalls and continuously building
                 many skills such as team work and collaboration, communication and independancy.                
     
                 Outside of school, I have many other hobbies I like to do in my free 

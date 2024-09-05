@@ -58,12 +58,7 @@ export default function Home() {
           </Accordion.Body>
         </Accordion.Item>)
         })}
-      </Accordion>
-      <Pagination>
-        <Pagination.Prev onClick={previous}/>
-        <Pagination.Item>{page}</Pagination.Item>
-        <Pagination.Next onClick={next}/>
-      </Pagination>     
+      </Accordion>    
     </>
   );
 }
