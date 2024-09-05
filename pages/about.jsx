@@ -22,7 +22,7 @@ export default function About(props){
             <PageHeader text="About the Developer : Luckshihaa Krishnan" />
             <p>I am in my fourth semester in Computer Programming and 
                 Analysis program at Seneca Polytechnic. I have had the passion
-                and interest in computer programming for a long time, and it's very interesting to learn
+                and interest in computer programming for a long time, and it is very interesting to learn
                 various programming languages!
             </p>
             <br/>
