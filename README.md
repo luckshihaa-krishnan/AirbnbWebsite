@@ -8,3 +8,6 @@ This application retrieved data from https://luckshihaakrishnan-apiroutes.onrend
 
 My overall goal when creating this application was to make it neat and easy accessible for users viewing this webpage.
 
+The command to run this application is 'npm run dev'. After this command is typed in the terminal, it will give a link to where we can see the application (for example, localhost:3000).
+This link would lead us to the application in the browser.
+
