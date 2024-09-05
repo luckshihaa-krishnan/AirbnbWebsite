@@ -22,8 +22,8 @@ export default function About(props){
             <PageHeader text="About the Developer : Luckshihaa Krishnan" />
             <p>I am in my fourth semester in Computer Programming and 
                 Analysis program at Seneca Polytechnic. I have had the passion
-                and interest in computer programming for a long time, and learning
-                various programming languages has been tough, but very interesting!
+                and interest in computer programming for a long time, and it's very interesting to learn
+                various programming languages!
             </p>
             <br/>
             <p>
@@ -31,7 +31,7 @@ export default function About(props){
                 at a company called Radeon Technologies Ltd. This was a virtual placement as 
                 it was also my first time working for a company and it was a great experience.
                 To build my soft skills, I work at Marshalls and continuously building
-                many skills such as team work and collaboration, communication and independancy.                
+                many skills such as teamwork and collaboration, communication and independancy.                
     
                 Outside of school, I have many other hobbies I like to do in my free 
                 time such as going for a walk while listening to music which helps 
